@@ -9,4 +9,5 @@ And click shoots.
 If money is (< 10 m), you can't shoot. Press Q and W quickly and continuous.
 
 Design & Code: Mustafa Tufan, Mustafa Karatas
+
 Graphic: Arif Karaarslan
